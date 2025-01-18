@@ -1,10 +1,10 @@
-# asd
+# README Generator
 
-![Static Badge](https://img.shields.io/badge/License-Apache%20License%202.0-blue)
+![Static Badge](https://img.shields.io/badge/License-MIT-blue)
 
 ## Description
 
-asd
+This application creates a professional README
 
 ## Table of Contents
 
@@ -15,21 +15,20 @@ asd
 
 ## Installation
 
-asd
+node install
 
 ## Usage
 
-asd
+Fill out the prompts and a README is generated for you
 
 ## Contributing
 
-If you have Questions, please reach out to me via my github account, https://github.com/mnorris3 or via email, mike@gmail.com.
+If you have Questions, please reach out to me via my github account, https://github.com/mnorris3 or via email, mrn3331324@gmail.com.
 
 ## License
 
+[MIT License](https://mit-license.org/)
 
-[Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 ```md
-This application uses the Apache License 2.0, below is a link to the licenses website.
+This application uses the MIT license, below is a link to the licenses website.
 ```
-

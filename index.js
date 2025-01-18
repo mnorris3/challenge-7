@@ -66,7 +66,7 @@ inquirer
   .then((results) => {
     const readmeContent = generateMarkdown(results);
 
-    writeToFile("README.md", readmeContent);
+    writeToFile("output/README.md", readmeContent);
   });
 // Function call to initialize app
 init();

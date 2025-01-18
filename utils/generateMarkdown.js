@@ -49,7 +49,7 @@ function renderLicenseSection(license) {
     section = `
 ${renderLicenseLink(license)}
 \`\`\`md
-This application uses the ${license}, below is a link to the licenses website.
+This application uses the ${license} license, below is a link to the licenses website.
 \`\`\`
 `;
   }
