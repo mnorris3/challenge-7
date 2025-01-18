@@ -12,6 +12,7 @@ This application creates a professional README
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Test](#test)
 
 ## Installation
 
@@ -32,3 +33,7 @@ If you have Questions, please reach out to me via my github account, https://git
 ```md
 This application uses the MIT license, below is a link to the licenses website.
 ```
+
+## Test
+
+[Test Video](https://www.youtube.com/watch?v=S5uPKxbPRDw)
